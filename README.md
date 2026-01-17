@@ -1,137 +1,79 @@
-# NEW-CRYPTO
-NEW CRYPTO to nowoczesny, eksperymentalny projekt kryptowalutowy, którego celem jest stworzenie prostego, przejrzystego i otwartego ekosystemu opartego na technologii blockchain.
+# 🚀 NEW-CRYPTO
 
-⚠️ Uwaga: Projekt ma charakter edukacyjny i rozwojowy. Nie stanowi porady inwestycyjnej.
+**NEW CRYPTO** is an experimental, open-source cryptocurrency project aiming to create a simple, transparent, and educational blockchain ecosystem.
 
-📌 Spis treści
+⚠️ **Note:** This project is for educational purposes only and **does not constitute investment advice**.
 
-Opis projektu
+---
 
-Cele
+## 📌 Table of Contents
 
-Funkcjonalności
+- [🧩 Description](#🧩-description)
+- [🎯 Goals](#🎯-goals)
+- [⚙️ Features](#⚙️-features)
+- [🛠️ Technology](#🛠️-technology)
+- [📥 Installation](#📥-installation)
+- [▶️ Usage](#▶️-usage)
+- [🗺️ Roadmap](#🗺️-roadmap)
+- [🤝 Contributing](#🤝-contributing)
+- [📄 License](#📄-license)
+- [📞 Contact](#📞-contact)
 
-Technologia
+---
 
-Instalacja
+## 🧩 Description
 
-Użycie
+**NEW CRYPTO** is an open-source blockchain project designed to demonstrate core cryptocurrency concepts, including:
 
-Roadmapa
+- Peer-to-peer transactions
+- Decentralization
+- Data security
+- Transaction transparency
 
-Wkład w projekt
+The project is targeted at developers, students, and crypto enthusiasts.
 
-Licencja
+---
 
-Kontakt
+## 🎯 Goals
 
-🧩 Opis projektu
+- 📖 Educate users on how cryptocurrencies work
+- 🔐 Provide a simple but secure transaction model
+- 🌍 Lay the foundation for future development (smart contracts, DAO, NFTs)
+- 🤝 Promote open-source collaboration
 
-NEW CRYPTO to otwartoźródłowy projekt blockchain, którego celem jest demonstracja działania podstawowych mechanizmów kryptowalutowych, takich jak:
+---
 
-transakcje peer-to-peer,
+## ⚙️ Features
 
-decentralizacja,
+### ✅ Implemented
+- Wallet creation
+- Sending and receiving tokens
+- Transaction validation
+- Basic consensus mechanism
 
-bezpieczeństwo danych,
+### ⏳ Planned
+- Smart contracts
+- Staking
+- NFT modules
+- DAO integration
 
-przejrzystość operacji.
+---
 
-Projekt został zaprojektowany z myślą o deweloperach, studentach oraz entuzjastach kryptowalut.
+## 🛠️ Technology
 
-🎯 Cele
+| Component   | Technology                           |
+|------------|--------------------------------------|
+| Languages  | JavaScript / Python                   |
+| Blockchain | Custom implementation                 |
+| Hashing    | SHA-256                               |
+| Repository | [GitHub](https://github.com/twoj-login/new-crypto) |
 
-📖 Edukacja na temat działania kryptowalut
+---
 
-🔐 Zapewnienie prostego, ale bezpiecznego modelu transakcji
+## 📥 Installation
 
-🌍 Stworzenie bazy pod dalszy rozwój (smart kontrakty, DAO, NFT)
+Clone the repository:
 
-🤝 Wspieranie współpracy open-source
-
-⚙️ Funkcjonalności
-
-✅ Tworzenie portfeli kryptowalutowych
-
-✅ Wysyłanie i odbieranie tokenów
-
-✅ Walidacja transakcji
-
-✅ Podstawowy mechanizm konsensusu
-
-⏳ Planowane: smart kontrakty i staking
-
-🛠️ Technologia
-
-Projekt wykorzystuje następujące technologie:
-
-Język: JavaScript / Python (w zależności od modułu)
-
-Blockchain: autorska implementacja
-
-Hashowanie: SHA-256
-
-Repozytorium: GitHub
-
-📥 Instalacja
-# klonowanie repozytorium
+```bash
 git clone https://github.com/twoj-login/new-crypto.git
-
-
-# przejście do katalogu
 cd new-crypto
-
-
-# instalacja zależności
-npm install
-
-lub (Python):
-
-pip install -r requirements.txt
-▶️ Użycie
-npm start
-
-lub:
-
-python main.py
-
-Po uruchomieniu aplikacji możesz:
-
-utworzyć nowy portfel,
-
-wykonać transakcję testową,
-
-podejrzeć stan blockchaina.
-
-🗺️ Roadmapa
-
-
-
-
-🤝 Wkład w projekt
-
-Chcesz pomóc w rozwoju?
-
-Zrób fork repozytorium
-
-Utwórz nową gałąź (feature/nazwa-funkcji)
-
-Zatwierdź zmiany (git commit -m 'Dodano nową funkcję')
-
-Wypchnij zmiany (git push origin feature/nazwa-funkcji)
-
-Otwórz Pull Request
-
-Każdy wkład jest mile widziany 🙌
-
-📄 Licencja
-
-Projekt jest udostępniony na licencji MIT.
-
-Możesz swobodnie korzystać, modyfikować i rozpowszechniać kod.
-
-📬 Kontakt
-
-Autor: NEW CRYPTO Team
-E-mail: contact@newcrypto.dev
-GitHub: https://github.com/twoj-login
